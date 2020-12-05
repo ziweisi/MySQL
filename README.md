@@ -1,2 +1,2 @@
-# MySQQL
+# MySQL
 MySQL
